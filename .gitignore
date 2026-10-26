@@ -1,0 +1,10 @@
+# the saved copies of the data files are large and stay on this computer
+snapshots/
+logs/
+config/secrets.env
+__pycache__/
+*.pyc
+~$*
+.venv/
+# the index of saved versions belongs with the snapshots, so it stays local too
+catalog/

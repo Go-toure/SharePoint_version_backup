@@ -1,0 +1,26 @@
+{
+  "_note": "Files that are backed up. 'key' is the short name used in commands. A file is found either by its SharePoint share link (share_url) or by its location (hostname + site_path + library + folder).",
+  "files": [
+    {
+      "key": "admin",
+      "filename": "AFRO_admin_data.xlsx",
+      "share_url": "https://worldhealthorg.sharepoint.com/:x:/r/sites/AF-pep/GISWORKSPACE/_layouts/15/Doc.aspx?sourcedoc=%7BF9F9983C-76E8-4133-BF13-F69F9F320C15%7D&file=AFRO_admin_data.xlsx&action=default&mobileredirect=true",
+      "min_bytes": 100000
+    },
+    {
+      "key": "lqas",
+      "filename": "AFRO_LQAS_data_c.csv",
+      "share_url": "https://worldhealthorg.sharepoint.com/:x:/r/sites/AF-pep/GISWORKSPACE/_layouts/15/Doc.aspx?sourcedoc=%7B0677B038-32D9-4B06-847E-F597DF315ABA%7D&file=AFRO_LQAS_data_c.csv&action=default&mobileredirect=true",
+      "min_bytes": 100000
+    },
+    {
+      "key": "im",
+      "filename": "AFRO_Inside_HH_M.csv",
+      "hostname": "worldhealthorg.sharepoint.com",
+      "site_path": "/sites/AF-pep/GISWORKSPACE",
+      "library": "Documents",
+      "folder": "7. SIA_Data/Data Repository",
+      "min_bytes": 100000
+    }
+  ]
+}
